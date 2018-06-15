@@ -22,7 +22,6 @@ print('min = ', np.min(data))
 # Write out as GeoTIFF
 
 # Compute transform
-res = 0.5
 x = np.linspace(-180.0, 180.0, numcols)
 y = np.linspace(-90.0, 90.0, numrows)
 res = (x[-1] - x[0]) / numcols
