@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''
-Convert the RGI grid to GeoTIFF
+dat_to_gtiff.py -- Convert the RGI grid to GeoTIFF
 '''
 
 import numpy as np
